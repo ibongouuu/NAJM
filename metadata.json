@@ -1,0 +1,7 @@
+{
+  "name": "Najm Tourism Kyrgyzstan",
+  "description": "Premium tourism agency catering to Arabic-speaking travelers exploring the natural beauty of Kyrgyzstan. Features an AI travel assistant, curated destinations, and RTL support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
